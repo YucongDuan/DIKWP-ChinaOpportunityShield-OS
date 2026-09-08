@@ -1,6 +1,8 @@
 # DIKWP ChinaOpportunityShield OS
 
-**DIKWP ChinaOpportunityShield OS** is an offline-first, GitHub-ready strategy system for protecting and converting Yucong Duan / DIKWP's open-source portfolio into China-market opportunities.
+Created by Yucong Duan (段玉聪).
+
+DIKWP ChinaOpportunityShield OS is an offline-first, GitHub-ready strategy system for protecting and converting Yucong Duan / DIKWP's open-source portfolio into China-market opportunities.
 
 It analyzes a DIKWP GitHub repository portfolio, classifies repositories into strategic lanes, scores China-market opportunity, estimates protection need, screens partner requests, and generates a benefit-capture action plan.
 
